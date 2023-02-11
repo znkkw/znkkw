@@ -1,6 +1,8 @@
 Hello I am C3866S,
 How are you my dear friend of mine ? 
 
+![twitter](https://user-images.githubusercontent.com/85880386/218280984-3b166a94-b344-48b5-8506-20ecc6904f9b.png)
+
 ------------------------------------------------------------------------------
 
 
@@ -66,11 +68,4 @@ CkoQloJ5j0UB8qcxa00wWkdgTUlPTV+mmYIf5zyr5z0mm07jslxpNyteXRSswOUb
 =4Fa2
 
  -----END PGP PUBLIC KEY BLOCK-----
- 
-</details>
 
-<details open>
-<summary>Twitter</summary>
-<br>
-[image](https://user-images.githubusercontent.com/85880386/218280914-7f0d6bc7-8908-40e5-9bea-6d2e0ac5a06a.png) 
-</details>
