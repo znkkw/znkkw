@@ -72,5 +72,5 @@ CkoQloJ5j0UB8qcxa00wWkdgTUlPTV+mmYIf5zyr5z0mm07jslxpNyteXRSswOUb
 <details open>
 <summary>Twitter</summary>
 <br>
-![image](https://user-images.githubusercontent.com/85880386/218280914-7f0d6bc7-8908-40e5-9bea-6d2e0ac5a06a.png) 
+[image](https://user-images.githubusercontent.com/85880386/218280914-7f0d6bc7-8908-40e5-9bea-6d2e0ac5a06a.png) 
 </details>
