@@ -11,7 +11,7 @@ How are you my dear friend of mine ?
 - [ ] Haskell
 - [ ] Perl
 
-### Stay Calm and Run 
+### Keep Calm and Run 
 ![gentoo](https://www.gentoo.org/assets/img/badges/gentoo-badge.png)
 ------------------------------------------------------------------------------
 
