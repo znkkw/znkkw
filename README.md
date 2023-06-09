@@ -7,7 +7,7 @@ How are you my dear friend of mine ?
 - [x] Assembler
 - [x] C (in development)
 - [ ] C++
-- [ ] Python 
+- [ ] Python (only the fundamentals done)
 - [ ] Haskell
 - [ ] Perl
 
