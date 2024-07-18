@@ -3,7 +3,7 @@ your friendly nerd.
 
 ### Programming languages to learn
 - [x] Assembler
-- [x] C (in development)
+- [x] C (in development) (taking much more time than expected)
 - [ ] C++
 - [ ] Python (only the fundamentals done)
 - [ ] Haskell
