@@ -1,16 +1,29 @@
-Hello I am Kernkraftwerk,
-your friendly nerd.
 
-### Programming languages to learn
-- [x] Assembler
-- [x] C (in development) (taking much more time than expected)
-- [ ] C++
-- [ ] Python (only the fundamentals done)
-- [ ] Haskell
-- [ ] Perl
+```css
+┌[KernKraftwerk@znkkw.at]-(~)
+└> mefetch
+```
+ 
+
+<div style="display:block;text-align:left"><img align="left" src="https://wiki.gentoo.org/images/thumb/e/ee/Gblend.png/117px-Gblend.png" border="0" style="width:156px;">
+  
+  ```css
+  Kernkraftwerk@GitHub
+  -----------------
+  Name: Kernkraft
+  OS:Gentoo
+  Languages: ["Rust", "C", "C++", "Haskell",
+              "AGDA", "COQ", "Bash", "Java"]
+  Interests: ["Refactoring", "Linux", "Windows Manager",
+              "i3wm", "Formal methods", "Category theory"
+              "cryptography", "P2P Networking"  ]  
+Uptime: 19 Years
+  ```
+</div>
+
 
 ### Keep Calm and Run 
-![gentoo](https://www.gentoo.org/assets/img/badges/gentoo-badge.png)
+![gentoo](https://wiki.gentoo.org/images/thumb/c/c3/Ripples-larry.svg/120px-Ripples-larry.svg.png)
 ------------------------------------------------------------------------------
 
 
