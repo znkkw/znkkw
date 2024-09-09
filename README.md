@@ -22,8 +22,3 @@ Uptime: 19 Years
 </div>
 
 
-### Keep Calm and Run 
-![gentoo](https://wiki.gentoo.org/images/thumb/c/c3/Ripples-larry.svg/120px-Ripples-larry.svg.png)
-------------------------------------------------------------------------------
-
-
